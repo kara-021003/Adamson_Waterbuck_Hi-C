@@ -1,6 +1,13 @@
 # Adamson_Waterbuck_Hi-C
 Reproducible Workflow for Hi-C Variant Calling and Variant Heatmap Visualisation
 
+Software Requirements:
+- HiCExplorer
+- Cooler
+- EagleC2
+- Python 3
+
+
 Step 1: Generate a 1kb H5 file
 
 Follow https://github.com/Farre-lab/Kirkland_Bovidae/tree/main/Hi-C workflow
